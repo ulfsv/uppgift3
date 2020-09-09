@@ -3,7 +3,7 @@
 
 namespace uppgift3
 {
-    internal class Person
+    public class Person //Ändrar till public för att kunna använda klassen i PersonHandler metoder.
     {
 
 
